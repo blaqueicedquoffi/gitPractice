@@ -6,6 +6,8 @@ public class Batch12 {
 		// TODO Auto-generated method stub
 		System.out.println("Here we are!");
 		System.out.println("I'm dope!");
+		System.out.println("Hello HI");
+		
 		
 		
 
